@@ -100,5 +100,5 @@ export default function Slider() {
         </div>
       </div>
     </div>
-  );
+  ); 
 }
